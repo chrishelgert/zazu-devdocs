@@ -1,5 +1,7 @@
 # zazu-devdocs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danielbayerlein/zazu-devdocs.svg)](https://greenkeeper.io/)
+
 > [Zazu](https://github.com/tinytacoteam/zazu) plugin to search for API documentations with [devdocs.io](https://devdocs.io/)
 
 [![Build Status](https://travis-ci.org/danielbayerlein/zazu-devdocs.svg?branch=master)](https://travis-ci.org/danielbayerlein/zazu-devdocs)
